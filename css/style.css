@@ -55,10 +55,10 @@ header :is(.logo, .menu, .menu-close, .nav-item),
 
 header .nav-items {
   position: absolute;
-  top: 0;
-  right: 0px;
-  width: 80%;
-  height: 100dvh;
+  top: -1000px;
+  right: 0;
+  width: 100%;
+  height: 80vh;
   background-color: var(--off-white);
   transition: all ease-in-out 800ms;
   padding-left: 2.45em;
