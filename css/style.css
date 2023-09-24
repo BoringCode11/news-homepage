@@ -56,7 +56,7 @@ header :is(.logo, .menu, .menu-close, .nav-item),
 header .nav-items {
   position: absolute;
   top: 0;
-  right: -965px;
+  right: 0px;
   width: 80%;
   height: 100dvh;
   background-color: var(--off-white);
