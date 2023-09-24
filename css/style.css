@@ -31,6 +31,7 @@ body {
   background-color: var(--off-white);
   color: var(--very-dark-blue);
   padding-inline: 1.5em;
+  height: fit-content;
 }
 
 header {
